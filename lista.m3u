@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>ESET NOD32 Antivirus - Alerta</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+<table width="500" height="300" border="1" bordercolor="#FFFFFF">
+  <tr>
+    <td align="center" valign="bottom" bordercolor="#000000" bgcolor="#B5131C"><table width="100%" border="0">
+        <tr>
+          <td><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">Alerta de ESET NOD32 Antivirus</font></strong></td>
+        </tr>
+      </table>
+      <table width="494" height="270" border="1" bordercolor="#B5131C">
+        <tr>
+          <td align="left" valign="top" bordercolor="#000000" bgcolor="#FFFFFF"> 
+            <table width="488" height="100%" border="0" cellspacing="2">
+              <tr>
+                <td height="40" align="right" valign="bottom" bgcolor="#B5131C"><strong><font color="#FFFFFF" size="4" face="Arial Black">Acceso denegado!&nbsp; </font></strong></td>
+              </tr>
+              <tr>
+                <td bgcolor="#EEEEEE" height="100%"><table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td align="left" valign="top"> <p> <br>
+                          <font size="2" face="Arial, Helvetica, sans-serif"> 
+                          <strong>&nbsp;Detalles:</strong><br>
+                          <br>
+                          <strong>&nbsp;&nbsp;&nbsp;Página de Internet:</strong><br>
+                          &nbsp;&nbsp;&nbsp;http://tvplayerlatino.com/lista.m3u</font><br>
+                          <font size="2" face="Arial, Helvetica, sans-serif"><br>
+                          <strong>&nbsp;&nbsp;&nbsp;Descripción:</strong><br>
+                          &nbsp;&nbsp;&nbsp;El acceso a esta página de Internet ha sido bloqueado por<br>
+			  &nbsp;&nbsp;&nbsp;ESET NOD32 Antivirus. La misma se encuentra en la lista de sitios con<br>
+			  &nbsp;&nbsp;&nbsp;contenido potencialmente peligroso.</font></p>
+                      <p align="right"><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.eset.com">www.eset.com</a></font></p></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table> </td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</body>
+</html>
