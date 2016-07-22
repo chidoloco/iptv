@@ -1,0 +1,83 @@
+SKY SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live playpath=yoskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys1&vw=620&vh=490
+
+SKY SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live playpath=yoskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys2&vw=620&vh=490
+
+SKY SPORT 3
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live playpath=yoskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys3&vw=620&vh=490
+
+SKY SPORTS 4
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live playpath=yoskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys4&vw=620&vh=490
+
+SKY SPORT5
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live playpath=yoskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys5&vw=620&vh=490
+
+SKY SPORT F1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live playpath=yoskysf1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskysf1&vw=620&vh=490
+
+BTSPORT Europe
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobteu&vw=620&vh=490
+
+BTSPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live playpath=yobt1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobt1&vw=620&vh=490
+
+BTSPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live playpath=yobt2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobt2&vw=620&vh=490
+#EXTINF:-1,Sky Sport 24 HD
+http://tvservice.webhop.me:80/live/greco/greco/250.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://tvservice.webhop.me:80/live/greco/greco/251.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://tvservice.webhop.me:80/live/greco/greco/252.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://tvservice.webhop.me:80/live/greco/greco/253.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://tvservice.webhop.me:80/live/greco/greco/2073.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://tvservice.webhop.me:80/live/greco/greco/254.ts
+#EXTINF:-1,Sky Moto GP HD
+http://tvservice.webhop.me:80/live/greco/greco/255.ts
+#EXTINF:-1,Eurosport HD
+http://tvservice.webhop.me:80/live/greco/greco/2633.ts
+#EXTINF:-1,Eurosport 2 HD
+http://tvservice.webhop.me:80/live/greco/greco/2634.ts
+#EXTINF:-1,Gazzetta tv
+http://tvservice.webhop.me:80/live/greco/greco/2618.ts
+#EXTINF:-1,Sport Italia
+http://tvservice.webhop.me:80/live/greco/greco/1547.ts
+#EXTINF:-1,Motor TV
+http://tvservice.webhop.me:80/live/greco/greco/3352.ts
+#EXTINF:-1,Sport television
+http://tvservice.webhop.me:80/live/greco/greco/2725.ts
+#EXTINF:-1,Rai Sport 1
+http://tvservice.webhop.me:80/live/greco/greco/1551.ts
+#EXTINF:-1,Rai Sport 2
+http://tvservice.webhop.me:80/live/greco/greco/2048.ts
+#EXTINF:-1,Super Tennis HD
+http://tvservice.webhop.me:80/live/greco/greco/256.ts
+#EXTINF:-1,UK: Sky Sport News
+http://selling-team.net:8000/live/spagna/spagna/4836.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://selling-team.net:8000/live/spagna/spagna/4830.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://selling-team.net:8000/live/spagna/spagna/4831.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://selling-team.net:8000/live/spagna/spagna/4832.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://selling-team.net:8000/live/spagna/spagna/4833.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://selling-team.net:8000/live/spagna/spagna/4834.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://selling-team.net:8000/live/spagna/spagna/4835.ts 
+
+#EXTINF:-1,UFC Network LA
+http://mitvstk.esy.es/stk.php?canal=UFCNetworkLA&cm=1047&f=.m3u8
+#EXTINF:-1,WWE
+http://mitvstk.esy.es/stk.php?canal=WWE&cm=8446&f=.m3u8
+#EXTINF:-1,NFL Network US
+http://mitvstk.esy.es/stk.php?canal=NFLNetworkUS&cm=1003&f=.m3u8
+#EXTINF:-1,NBA TV US
+http://mitvstk.esy.es/stk.php?canal=NBATVUS&cm=2347&f=.m3u8
+#EXTINF:-1,Bein Sports LA
+http://mitvstk.esy.es/stk.php?canal=BeinSportsLA&cm=2527&f=.m3u8
